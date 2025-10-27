@@ -1,5 +1,5 @@
 ## Hi there I´m Fernando👋
-
+I'm a Computer Science and Technology student at Tecnológico de Monterrey. Passionate about web development and robotics competitions, integrating software to create innovative solutions. Currently working as a Software Engineer Intern at distritotec and as a Software Developer for RoBorregos, the ITESM robotics representative team.
 
 ## Github Stats
 
